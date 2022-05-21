@@ -1,8 +1,20 @@
 {
-    "SHOW_MORE": "Show More",
+  "NAV_LOGIN": "Log In",
+  "NAV_SIGNUP": "Sign Up",
+  "NAV_LEVELS": "Levels",
+  "NAV_RANKINGS": "Rankings",
 
-    "HOME_HERO_DESCRIPTION": "Based On The <forumLink>Unofficial ADOFAI Forum</forumLink>",
+  "SHOW_MORE": "Show More",
 
-    "HOME_TOP_PLAYS": "Top Plays",
-    "HOME_RECENT_LEVELS": "Recent Ranked Levels"
+  "HOME_HERO_DESCRIPTION": "Based On The <forumLink>Unofficial ADOFAI Forum</forumLink>",
+  "HOME_TOP_PLAYS": "Top Plays",
+  "HOME_RECENT_LEVELS": "Recent Ranked Levels",
+
+  "LEVEL_DETAIL_LEVEL_BY": "Level by",
+  "LEVEL_DETAIL_MUSIC_BY": "Music By",
+  "LEVEL_DETAIL_DIFFICULTY": "Lv.",
+  "LEVEL_DETAIL_SONG_LENGTH": "Song Length",
+  "LEVEL_DETAIL_BPM": "BPM",
+  "LEVEL_DETAIL_TILES": "Tiles",
+  "LEVEL_DETAIL_TAGS": "Tags"
 }
