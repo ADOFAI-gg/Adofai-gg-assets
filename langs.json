@@ -1,4 +1,12 @@
 [
-    "en",
-    "ko"
+    {
+        "code": "en",
+        "name": "English",
+        "aliases": ["en-US"]
+    },
+    {
+        "code": "ko",
+        "name": "Korean",
+        "aliases": ["ko-KR"]
+    }
 ]
