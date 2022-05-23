@@ -16,5 +16,11 @@
   "LEVEL_DETAIL_SONG_LENGTH": "Song Length",
   "LEVEL_DETAIL_BPM": "BPM",
   "LEVEL_DETAIL_TILES": "Tiles",
-  "LEVEL_DETAIL_TAGS": "Tags"
+  "LEVEL_DETAIL_TAGS": "Tags",
+
+  "LEVEL_SHARE_POPUP_TITLE": "Share",
+
+  "USER_POPUP_SHOW_MORE_LINK": "User Information",
+  "USER_POPUP_RANKING": "Ranking",
+  "USER_POPUP_TOTAL_PP": "Total PP"
 }
