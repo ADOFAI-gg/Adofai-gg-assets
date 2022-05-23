@@ -1,1 +1,17 @@
-{}
+{
+    "SHOW_MORE": "더 보기",
+    "NAV_LOGIN": "로그인",
+    "NAV_SIGNUP": "가입",
+    "NAV_LEVELS": "레벨",
+    "NAV_RANKINGS": "랭킹",
+    "LEVEL_DETAIL_LEVEL_BY": "제작자",
+    "LEVEL_DETAIL_MUSIC_BY": "작곡가",
+    "LEVEL_DETAIL_DIFFICULTY": "레벨",
+    "LEVEL_DETAIL_SONG_LENGTH": "곡 길이",
+    "LEVEL_DETAIL_BPM": "BPM",
+    "LEVEL_DETAIL_TILES": "타일 수",
+    "HOME_HERO_DESCRIPTION": "<forumLink>ADOFAI 비공식 포럼</forumLink>을 기반으로 제작되었습니다",
+    "LEVEL_DETAIL_TAGS": "태그",
+    "HOME_TOP_PLAYS": "상위권 플레이",
+    "HOME_RECENT_LEVELS": "최근 등재된 레벨"
+}
