@@ -67,7 +67,7 @@
   "TAG_24_NAME": "Sudden Acceleration",
   "TAG_24_DESCRIPTION": "This level includes a sharp increase in BPM.",
 
-  "TAG_GROUP_CHART_RELATED": "Chart Related",
-  "TAG_GROUP_RHYTHM_RELATED": "Rhythm Related",
-  "TAG_GROUP_LENGTH": "Length"
+  "TAG_GROUP_CHART": "Chart&VFX Tags",
+  "TAG_GROUP_RHYTHM": "Pattern Tags",
+  "TAG_GROUP_MUSIC": "Music Tags"
 }
