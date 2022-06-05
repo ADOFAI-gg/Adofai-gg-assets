@@ -37,7 +37,7 @@
     "TAG_10_NAME": "64+ Beat",
     "TAG_10_DESCRIPTION": "This level includes beats higher than 64.",
     "TAG_11_NAME": "Long",
-    "TAG_11_DESCRIPTION": "Levels that are over 4 minutes.",
+    "TAG_11_DESCRIPTION": "This level is over 4 minutes.",
     "TAG_12_NAME": "Funky Beat",
     "TAG_12_DESCRIPTION": "This level includes funky beats.",
     "TAG_13_NAME": "Pseudo",
@@ -66,5 +66,5 @@
     "TAG_GROUP_RHYTHM": "Pattern Tags",
     "TAG_GROUP_MUSIC": "Music Tags",
     "MUSIC_MEDIUM_NAME": "Medium",
-    "MUSIC_MEDIUM_DESCRIPTION": "Levels that are 1~4 minutes."
+    "MUSIC_MEDIUM_DESCRIPTION": "This level is 1~4 minutes."
 }
