@@ -69,5 +69,8 @@
 
   "TAG_GROUP_CHART": "Chart&VFX Tags",
   "TAG_GROUP_RHYTHM": "Pattern Tags",
-  "TAG_GROUP_MUSIC": "Music Tags"
+  "TAG_GROUP_MUSIC": "Music Tags",
+
+  "MUSIC_MEDIUM_NAME": "Medium",
+  "MUSIC_MEDIUM_DESCRIPTION": "Levels that are 1~4 minutes."
 }
