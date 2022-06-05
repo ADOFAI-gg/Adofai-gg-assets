@@ -8,7 +8,7 @@
   "HOME_HERO_DESCRIPTION": "Based On The <forumLink>Unofficial ADOFAI Forum</forumLink>",
   "HOME_TOP_PLAYS": "Top Plays",
   "HOME_RECENT_LEVELS": "Recent Ranked Levels",
-  
+
   "LEVEL_DETAIL_LEVEL_BY": "Level by",
   "LEVEL_DETAIL_MUSIC_BY": "Music By",
   "LEVEL_DETAIL_DIFFICULTY": "Lv.",
@@ -17,7 +17,7 @@
   "LEVEL_DETAIL_TILES": "Tiles",
   "LEVEL_DETAIL_TAGS": "Tags",
   "LEVEL_SHARE_POPUP_TITLE": "Share",
-  
+
   "USER_POPUP_SHOW_MORE_LINK": "User Information",
   "USER_POPUP_RANKING": "Ranking",
   "USER_POPUP_TOTAL_PP": "Total PP",
@@ -65,5 +65,9 @@
   "TAG_23_NAME": "Speed Changes",
   "TAG_23_DESCRIPTION": "This level uses a song that changes BPM.",
   "TAG_24_NAME": "Sudden Acceleration",
-  "TAG_24_DESCRIPTION": "This level includes a sharp increase in BPM."
+  "TAG_24_DESCRIPTION": "This level includes a sharp increase in BPM.",
+
+  "TAG_GROUP_CHART_RELATED": "Chart Related",
+  "TAG_GROUP_RHYTHM_RELATED": "Rhythm Related",
+  "TAG_GROUP_LENGTH": "Length"
 }
