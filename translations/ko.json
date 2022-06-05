@@ -43,7 +43,7 @@
     "TAG_1_NAME": "1분 미만",
     "TAG_1_DESCRIPTION": "이 레벨은 1분 미만입니다.",
     "TAG_6_DESCRIPTION": "소용돌이가 없는 맵",
-    "TAG_3_DESCRIPTION": "토끼와 달팽이가 없는 레벨",
+    "TAG_3_DESCRIPTION": "이 레벨은 일정한 속도를 유지합니다.",
     "TAG_GROUP_MUSIC": "음악 태그",
     "TAG_10_DESCRIPTION": "이 레벨은 64비트 이상을 포함합니다.",
     "TAG_19_DESCRIPTION": "이 레벨은 다섯잇단을 포함합니다.",
@@ -58,5 +58,6 @@
     "TAG_9_DESCRIPTION": "이 레벨은 일곱잇단을 포함합니다.",
     "TAG_13_DESCRIPTION": "이 레벨은 두 손가락으로 동시에 눌러야 하는 부분을 포함합니다.",
     "TAG_15_DESCRIPTION": "이 레벨은 세 개 이상의 손가락으로 동시에 눌러야 하는 부분을 포함합니다.",
-    "TAG_12_DESCRIPTION": "이 레벨은 괴상한 박자를 포함합니다."
+    "TAG_12_DESCRIPTION": "이 레벨은 괴상한 박자를 포함합니다.",
+    "TAG_22_DESCRIPTION": "이 레벨은 기믹을 포함합니다."
 }
