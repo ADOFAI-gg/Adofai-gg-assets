@@ -59,5 +59,6 @@
     "TAG_13_DESCRIPTION": "이 레벨은 두 손가락으로 동시에 눌러야 하는 부분을 포함합니다.",
     "TAG_15_DESCRIPTION": "이 레벨은 세 개 이상의 손가락으로 동시에 눌러야 하는 부분을 포함합니다.",
     "TAG_12_DESCRIPTION": "이 레벨은 괴상한 박자를 포함합니다.",
-    "TAG_22_DESCRIPTION": "이 레벨은 기믹을 포함합니다."
+    "TAG_22_DESCRIPTION": "이 레벨은 기믹을 포함합니다.",
+    "TAG_GROUP_CHART": "채보&이펙트 태그"
 }
