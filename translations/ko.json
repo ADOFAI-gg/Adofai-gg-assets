@@ -78,5 +78,6 @@
     "SEARCH_TAB_TAGS": "태그",
     "SEARCH_VIEW_LIST": "목록",
     "SEARCH_TAB_SORT": "정렬",
-    "SEARCH_VIEW_TABLE": "표"
+    "SEARCH_VIEW_TABLE": "표",
+    "SEARCH_SETTINGS_RESET": "검색 설정 초기화"
 }
