@@ -66,5 +66,15 @@
     "TAG_11_DESCRIPTION": "길이가 4분 이상인 레벨입니다.",
     "MUSIC_MEDIUM_DESCRIPTION": "길이가 1분에서 4분인 레벨입니다.",
     "TAG_23_DESCRIPTION": "이 레벨은 BPM이 변경되는 곡을 사용합니다.",
-    "TAG_16_DESCRIPTION": "이 레벨의 20% 이상에 스윙 박자가 포함되어 있습니다."
+    "TAG_16_DESCRIPTION": "이 레벨의 20% 이상에 스윙 박자가 포함되어 있습니다.",
+    "SORT_SHUFFLE": "섞기",
+    "SORT_CREATED": "제작 날짜",
+    "SORT_DIFFICULTY": "난이도",
+    "SORT_LIKES": "좋아요 수",
+    "SORT_BY": "분류 기준",
+    "SEARCH_TAB_TAGS_HELP": "태그를 선택하여 필터를 적용할 수 있습니다.",
+    "SORT_ASC": "오름차순",
+    "SORT_DESC": "내림차순",
+    "SEARCH_TAB_TAGS": "태그",
+    "SEARCH_VIEW_LIST": "목록"
 }
