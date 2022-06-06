@@ -84,5 +84,7 @@
   "SEARCH_SETTINGS_RESET": "Reset search setting",
 
   "SEARCH_VIEW_LIST": "List",
-  "SEARCH_VIEW_TABLE": "Table"
+  "SEARCH_VIEW_TABLE": "Table",
+
+  "SEARCH_TAB_TAGS_HELP": "You can apply filters by clicking the tags"
 }
