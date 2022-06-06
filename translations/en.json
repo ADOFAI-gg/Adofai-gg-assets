@@ -69,8 +69,12 @@
   "MUSIC_MEDIUM_DESCRIPTION": "This level is 1~4 minutes.",
 
   "SORT_BY": "Sort By",
+
+  "SORT_ASC": "Asc",
+  "SORT_DESC": "Desc",
+  "SORT_SHUFFLE": "Shuffle",
+
   "SORT_CREATED": "Created Date",
   "SORT_DIFFICULTY": "Difficulty",
-  "SORT_LIKES": "Likes",
-  "SORT_SHUFFLE": "Shuffle"
+  "SORT_LIKES": "Likes"
 }
