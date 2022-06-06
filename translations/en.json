@@ -86,5 +86,7 @@
   "SEARCH_VIEW_LIST": "List",
   "SEARCH_VIEW_TABLE": "Table",
 
-  "SEARCH_TAB_TAGS_HELP": "You can apply filters by clicking the tags"
+  "SEARCH_TAB_TAGS_HELP": "You can apply filters by clicking the tags",
+
+  "UPDATE_AVAILABLE": "Update available. Please reload to activate."
 }
