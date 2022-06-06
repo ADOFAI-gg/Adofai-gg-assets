@@ -76,5 +76,13 @@
 
   "SORT_CREATED": "Created Date",
   "SORT_DIFFICULTY": "Difficulty",
-  "SORT_LIKES": "Likes"
+  "SORT_LIKES": "Likes",
+
+  "SEARCH_TAB_TAGS": "Tags",
+  "SEARCH_TAB_META": "Meta",
+  "SEARCH_TAB_SORT": "Sort",
+  "SEARCH_SETTINGS_RESET": "Reset search setting",
+
+  "SEARCH_VIEW_LIST": "List",
+  "SEARCH_VIEW_TABLE": "Table"
 }
