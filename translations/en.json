@@ -72,5 +72,14 @@
   "TAG_GROUP_MUSIC": "Music Tags",
 
   "MUSIC_MEDIUM_NAME": "Medium",
-  "MUSIC_MEDIUM_DESCRIPTION": "Levels that are 1~4 minutes."
+  "MUSIC_MEDIUM_DESCRIPTION": "Levels that are 1~4 minutes.",
+
+  "SORT_BY": "Sort By",
+  "SORT_ASC": "Asc",
+  "SORT_DESC": "Desc",
+
+  "SORT_CREATED": "Created Date",
+  "SORT_DIFFICULTY": "Difficulty",
+  "SORT_LIKES": "Likes",
+  "SORT_SHUFFLE": "Shuffle"
 }
