@@ -72,12 +72,13 @@
     "SORT_DIFFICULTY": "난도",
     "SORT_LIKES": "좋아요 수",
     "SORT_BY": "정렬 기준",
-    "SEARCH_TAB_TAGS_HELP": "태그를 선택하여 필터를 적용할 수 있습니다.",
+    "SEARCH_TAB_TAGS_HELP": "태그를 선택하여 필터를 적용할 수 있습니다",
     "SORT_ASC": "오름차순",
     "SORT_DESC": "내림차순",
     "SEARCH_TAB_TAGS": "태그",
     "SEARCH_VIEW_LIST": "목록",
     "SEARCH_TAB_SORT": "정렬",
     "SEARCH_VIEW_TABLE": "표",
-    "SEARCH_SETTINGS_RESET": "검색 설정 초기화"
+    "SEARCH_SETTINGS_RESET": "검색 설정 초기화",
+    "SEARCH_TAB_META": "메타데이터"
 }
