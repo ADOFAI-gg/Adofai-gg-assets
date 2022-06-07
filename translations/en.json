@@ -95,9 +95,11 @@
   "SEARCH_META_LV_MIN": "Min Lv.",
   "SEARCH_META_LV_MAX": "Max Lv.",
 
+  "SEARCH_META_TILES_LABEL": "Tiles",
   "SEARCH_META_TILES_MIN": "Min Tiles",
   "SEARCH_META_TILES_MAX": "Max Tiles",
 
+  "SEARCH_META_BPM_LABEL": "BPM",
   "SEARCH_META_BPM_MIN": "Min BPM",
   "SEARCH_META_BPM_MAX": "Max BPM",
 
