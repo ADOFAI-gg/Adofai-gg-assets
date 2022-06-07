@@ -88,5 +88,8 @@
 
   "SEARCH_TAB_TAGS_HELP": "You can apply filters by clicking the tags",
 
-  "UPDATE_AVAILABLE": "Update available. Please reload to activate."
+  "UPDATE_AVAILABLE": "Update available. Please reload to activate.",
+
+  "SEARCH_INPUT_PLACEHOLDER_HOME": "Search Level, Song, Artist, or Creator",
+  "SEARCH_INPUT_PLACEHOLDER_LEVELS": "Search Level by Title"
 }
