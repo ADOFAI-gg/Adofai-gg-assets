@@ -83,6 +83,24 @@
   "SEARCH_TAB_SORT": "Sort",
   "SEARCH_SETTINGS_RESET": "Reset search setting",
 
+  "SEARCH_META_AUTHOR": "Author",
+  "SEARCH_META_LEVEL": "Level Meta",
+
+  "SEARCH_META_ARTIST_LABEL": "Artist",
+  "SEARCH_META_ARTIST_PLACEHOLDER": "Song Artist",
+  "SEARCH_META_CREATOR_LABEL": "Creator",
+  "SEARCH_META_CREATOR_PLACEHOLDER": "Level Creator",
+
+  "SEARCH_META_LV_LABEL": "Lv.",
+  "SEARCH_META_LV_MIN": "Min Lv.",
+  "SEARCH_META_LV_MAX": "Max Lv.",
+
+  "SEARCH_META_TILES_MIN": "Min Tiles",
+  "SEARCH_META_TILES_MAX": "Max Tiles",
+
+  "SEARCH_META_BPM_MIN": "Min BPM",
+  "SEARCH_META_BPM_MAX": "Max BPM",
+
   "SEARCH_VIEW_LIST": "List",
   "SEARCH_VIEW_TABLE": "Table",
 
