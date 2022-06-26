@@ -8,5 +8,10 @@
         "code": "ko",
         "name": "Korean",
         "aliases": ["ko-KR"]
+    },
+    {
+        "code": "ja",
+        "name": "Japanese",
+        "aliases": []
     }
 ]
