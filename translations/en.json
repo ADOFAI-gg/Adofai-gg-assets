@@ -62,6 +62,8 @@
   "TAG_23_DESCRIPTION": "This level uses music that changes BPM.",
   "TAG_24_NAME": "Sudden Acceleration",
   "TAG_24_DESCRIPTION": "This level includes a sharp increase in BPM.",
+  "TAG_SW_NAME": "Seizure Warning",
+  "TAG_SW_DESCRIPTION": "This level features sections that include flashing imagery and could trigger photosensitive epilepsy.",
   "TAG_GROUP_CHART": "Chart&VFX Tags",
   "TAG_GROUP_RHYTHM": "Pattern Tags",
   "TAG_GROUP_MUSIC": "Music Tags",
