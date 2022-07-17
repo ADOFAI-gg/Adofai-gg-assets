@@ -98,5 +98,6 @@
     "SEARCH_META_CREATOR_LABEL": "제작자",
     "SEARCH_META_CREATOR_PLACEHOLDER": "레벨 제작자",
     "SEARCH_META_LV_LABEL": "난도",
-    "SEARCH_META_LV_MIN": "최소 난도"
+    "SEARCH_META_LV_MIN": "최소 난도",
+    "TAG_SW_NAME": "광과민성 경고"
 }
