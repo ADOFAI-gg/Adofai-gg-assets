@@ -130,5 +130,17 @@
   "FOOTER_LEGAL_TERMS": "Terms of service",
   "FOOTER_LEGAL_PRIVACY_POLICY": "Personal information processing policy",
 
-  "FOOTER_COPYRIGHT": "© 2022 ADOFAI.gg Development Team. All rights reserved to the design (without third-party delivered images, fonts), icons, and source code (without a library) about this site."
+  "FOOTER_COPYRIGHT": "© 2022 ADOFAI.gg Development Team. All rights reserved to the design (without third-party delivered images, fonts), icons, and source code (without a library) about this site.",
+
+  "SEARCH_TABLE_COL_ID": "ID",
+  "SEARCH_TABLE_COL_DIFFICULTY": "Lv.",
+  "SEARCH_TABLE_COL_LEVEL_NAME": "Level Name",
+  "SEARCH_TABLE_COL_MUSIC_NAME": "Music Name",
+  "SEARCH_TABLE_COL_ARTIST": "Artist",
+  "SEARCH_TABLE_COL_CREATOR": "Creator",
+  "SEARCH_TABLE_COL_BPM": "BPM",
+  "SEARCH_TABLE_COL_TILES": "Tiles",
+  "SEARCH_TABLE_COL_TAGS": "Tags",
+  "SEARCH_TABLE_COL_WARNINGS": "EW/NSFW",
+  "SEARCH_TABLE_COL_LINKS": "Links"
 }
