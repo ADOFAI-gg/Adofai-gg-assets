@@ -119,19 +119,17 @@
   "SEARCH_INPUT_PLACEHOLDER_LEVELS": "Search Level by Title",
 
   "FOOTER_TITLE": "ADOFAI.gg",
-  "FOOTER_DESCRIPTION": "ADOFAI.gg is based on the unofficial ADOFAI forum, and It is not created and approved by 7th Beat Games. This website is provided with sponsored by Hanmesoft.",
+  "FOOTER_DESCRIPTION": "ADOFAI.gg is based on the ADOFAI Unofficial Forum, and is not created nor approved by 7th Beat Games. This website is provided upon sponsorship by Hanmesoft.",
 
   "FOOTER_SECTION_CONTACT": "Contact",
-  "FOOTER_CONTACT_EMAIL": "Send Inquiry mail.",
-  "FOOTER_CONTACT_DISCORD": "Join Discord server",
+  "FOOTER_CONTACT_EMAIL": "Send Inquiry Mail",
+  "FOOTER_CONTACT_DISCORD": "Join Discord Server",
 
-  "FOOTER_SECTION_LEGAL": "Legal constraints and policies",
-  "FOOTER_LEGAL_NOTICE": "Legal notice",
-  "FOOTER_LEGAL_TERMS": "Terms of service",
-  "FOOTER_LEGAL_PRIVACY_POLICY": "Personal information processing policy",
-
-  "FOOTER_COPYRIGHT": "© 2022 ADOFAI.gg Development Team. All rights reserved to the design (without third-party delivered images, fonts), icons, and source code (without a library) about this site.",
-
+  "FOOTER_SECTION_LEGAL": "Legal Constraints and Policies",
+  "FOOTER_LEGAL_NOTICE": "Legal Notice",
+  "FOOTER_LEGAL_TERMS": "Terms of Service",
+  "FOOTER_LEGAL_PRIVACY_POLICY": "Privacy Policy",
+  "FOOTER_COPYRIGHT": "© 2022 ADOFAI.gg Development Team. All rights reserved to the designs (excluding third-party images and fonts), icons, and source code (excluding libraries) on this site.",
   "SEARCH_TABLE_COL_ID": "ID",
   "SEARCH_TABLE_COL_DIFFICULTY": "Lv.",
   "SEARCH_TABLE_COL_LEVEL_NAME": "Level Name",
