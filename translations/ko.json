@@ -112,5 +112,17 @@
     "FOOTER_DESCRIPTION": "ADOFAI.gg는 ADOFAI 비공식 포럼을 바탕으로 하며, 7th Beat Games에서 제작되거나 승인받지 않았습니다. 이 웹사이트는 Hanmesoft의 지원하에 제공됩니다.",
     "TAG_25_NAME": "DLC",
     "FOOTER_TITLE": "ADOFAI.gg",
-    "LEVEL_OPEN_IN_ADOFAI": "얼불춤에서 레벨 열기"
+    "LEVEL_OPEN_IN_ADOFAI": "얼불춤에서 레벨 열기",
+    "SEARCH_TABLE_COL_ID": "ID",
+    "SEARCH_TABLE_COL_DIFFICULTY": "난도",
+    "SEARCH_TABLE_COL_LEVEL_NAME": "레벨 이름",
+    "SEARCH_TABLE_COL_MUSIC_NAME": "곡 이름",
+    "SEARCH_TABLE_COL_ARTIST": "작곡가",
+    "SEARCH_TABLE_COL_CREATOR": "제작자",
+    "SEARCH_TABLE_COL_BPM": "BPM",
+    "SEARCH_TABLE_COL_TILES": "타일 수",
+    "SEARCH_TABLE_COL_TAGS": "태그",
+    "SEARCH_TABLE_COL_WARNINGS": "광과민성/NSFW",
+    "SEARCH_TABLE_COL_LINKS": "링크",
+    "FOOTER_SECTION_CONTACT": "문의"
 }
