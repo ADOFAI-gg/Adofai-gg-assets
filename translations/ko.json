@@ -124,5 +124,8 @@
     "SEARCH_TABLE_COL_TAGS": "태그",
     "SEARCH_TABLE_COL_WARNINGS": "광과민성/NSFW",
     "SEARCH_TABLE_COL_LINKS": "링크",
-    "FOOTER_SECTION_CONTACT": "문의"
+    "FOOTER_SECTION_CONTACT": "문의",
+    "LENGTH_SHORT": "짧음",
+    "LENGTH_MEDIUM": "보통",
+    "LENGTH_LONG": "긺"
 }
