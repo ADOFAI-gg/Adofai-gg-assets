@@ -147,10 +147,10 @@
   "LENGTH_LONG": "Long",
   "LENGTH_VIDEO": "About {time}",
 
-  "TIME_UNIT_MINUTE": "Minute",
-  "TIME_UNIT_MINUTES": "Minutes",
-  "TIME_UNIT_HOUR": "Hour",
-  "TIME_UNIT_HOURS": "Hours",
-  "TIME_UNIT_SECOND": "Second",
-  "TIME_UNIT_SECONDS": "Seconds"
+  "TIME_UNIT_MINUTE": "{value} Minute",
+  "TIME_UNIT_MINUTES": "{value} Minutes",
+  "TIME_UNIT_HOUR": "{value} Hour",
+  "TIME_UNIT_HOURS": "{value} Hours",
+  "TIME_UNIT_SECOND": "{value} Second",
+  "TIME_UNIT_SECONDS": "{value} Seconds"
 }
