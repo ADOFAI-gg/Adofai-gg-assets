@@ -144,5 +144,6 @@
 
   "LENGTH_SHORT": "Short",
   "LENGTH_MEDIUM": "Medium",
-  "LENGTH_LONG": "Long"
+  "LENGTH_LONG": "Long",
+  "LENGTH_VIDEO": "About {time}"
 }
