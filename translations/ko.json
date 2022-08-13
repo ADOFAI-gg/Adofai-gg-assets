@@ -127,5 +127,12 @@
     "FOOTER_SECTION_CONTACT": "문의",
     "LENGTH_SHORT": "짧음",
     "LENGTH_MEDIUM": "보통",
-    "LENGTH_LONG": "긺"
+    "LENGTH_LONG": "긺",
+    "LENGTH_VIDEO": "약 {time}",
+    "TIME_UNIT_MINUTE": "{value}분",
+    "TIME_UNIT_MINUTES": "{value}분",
+    "TIME_UNIT_HOUR": "{value}시간",
+    "TIME_UNIT_HOURS": "{value}시간",
+    "TIME_UNIT_SECOND": "{value}초",
+    "TIME_UNIT_SECONDS": "{value}초"
 }
