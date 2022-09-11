@@ -152,5 +152,8 @@
   "TIME_UNIT_HOUR": "{value} Hour",
   "TIME_UNIT_HOURS": "{value} Hours",
   "TIME_UNIT_SECOND": "{value} Second",
-  "TIME_UNIT_SECONDS": "{value} Seconds"
+  "TIME_UNIT_SECONDS": "{value} Seconds",
+
+  "RANKING_TITLE": "Rankings",
+  "RANKING_HIGHEST_PLAY": "Highest play"
 }
