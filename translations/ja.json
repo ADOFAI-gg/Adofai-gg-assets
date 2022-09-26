@@ -96,5 +96,6 @@
     "TAG_21_NAME": "トレシージョ",
     "TAG_21_DESCRIPTION": "このレベルはトレシージョを含みます。",
     "TAG_14_NAME": "疾走",
-    "TAG_14_DESCRIPTION": "このレベルは速いBPMで直線を打つ部分を含みます。"
+    "TAG_14_DESCRIPTION": "このレベルは速いBPMで直線を打つ部分を含みます。",
+    "LEVEL_OPEN_IN_ADOFAI": "ADOFAIでレベルを開く"
 }
