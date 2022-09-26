@@ -134,5 +134,7 @@
     "TIME_UNIT_HOUR": "{value}시간",
     "TIME_UNIT_HOURS": "{value}시간",
     "TIME_UNIT_SECOND": "{value}초",
-    "TIME_UNIT_SECONDS": "{value}초"
+    "TIME_UNIT_SECONDS": "{value}초",
+    "RANKING_TITLE": "랭킹",
+    "RANKING_HIGHEST_PLAY": "최고의 플레이"
 }
