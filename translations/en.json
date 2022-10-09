@@ -155,5 +155,24 @@
   "TIME_UNIT_SECONDS": "{value} Seconds",
 
   "RANKING_TITLE": "Rankings",
-  "RANKING_HIGHEST_PLAY": "Highest play"
+  "RANKING_HIGHEST_PLAY": "Highest play",
+
+  "REFERENCES": "References",
+  "DIFFICULTY_REFERENCES": "Lv. Reference",
+  "DIFFICULTY_INDICATION": "Lv. Indication",
+
+  "REFERENCE_DIFFICULTY": "Lv.",
+  "REFERENCE_PP_RATING": "PP Rating",
+  "REFERENCE_STANDARD_LEVEL_FIRST": "Standard Level 1",
+  "REFERENCE_STANDARD_LEVEL_SECOND": "Standard Level 2",
+  "REFERENCE_STANDARD_LEVEL_THIRD": "Standard Level 3",
+  "REFERENCE_EASIEST_LEVEL": "Easiest Level (Reference 4 Arrange)",
+
+  "REFERENCE_DESCRIPTION": "Description",
+
+  "REFERENCE_INDICATION_RATED": "The rated level's difficulty. This could be changed in the future.",
+  "REFERENCE_INDICATION_TINY": "This is a shorter-than-a-minute level.",
+  "REFERENCE_INDICATION_NOT_RATED": "This level's difficulty is being determined.",
+  "REFERENCE_INDICATION_UNCLEARABLE": "This is an unclearable level.",
+  "REFERENCE_INDICATION_CENSORED": "This is an unlisted level that does not meet the listable level standards."
 }
