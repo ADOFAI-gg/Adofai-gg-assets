@@ -136,5 +136,15 @@
     "TIME_UNIT_SECOND": "{value}초",
     "TIME_UNIT_SECONDS": "{value}초",
     "RANKING_TITLE": "랭킹",
-    "RANKING_HIGHEST_PLAY": "최고의 플레이"
+    "RANKING_HIGHEST_PLAY": "최고의 플레이",
+    "REFERENCES": "기준",
+    "DIFFICULTY_INDICATION": "난도 표시",
+    "REFERENCE_PP_RATING": "PP 책정",
+    "REFERENCE_STANDARD_LEVEL_FIRST": "기준 레벨 1",
+    "REFERENCE_STANDARD_LEVEL_THIRD": "기준 레벨 3",
+    "REFERENCE_EASIEST_LEVEL": "최하 레벨 (기준 4)",
+    "REFERENCE_DESCRIPTION": "설명",
+    "DIFFICULTY_REFERENCE": "난도 기준",
+    "REFERENCE_DIFFICULTY": "난도",
+    "REFERENCE_STANDARD_LEVEL_SECOND": "기준 레벨 2"
 }
