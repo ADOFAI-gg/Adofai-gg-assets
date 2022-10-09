@@ -97,5 +97,14 @@
     "TAG_21_DESCRIPTION": "このレベルはトレシージョを含みます。",
     "TAG_14_NAME": "疾走",
     "TAG_14_DESCRIPTION": "このレベルは速いBPMで直線を打つ部分を含みます。",
-    "LEVEL_OPEN_IN_ADOFAI": "ADOFAIでレベルを開く"
+    "LEVEL_OPEN_IN_ADOFAI": "ADOFAIでレベルを開く",
+    "SEARCH_TABLE_COL_ARTIST": "アーティスト",
+    "SEARCH_TABLE_COL_CREATOR": "",
+    "SEARCH_TABLE_COL_DIFFICULTY": "難度",
+    "SEARCH_TABLE_COL_BPM": "BPM",
+    "SEARCH_TABLE_COL_TILES": "タイル数",
+    "SEARCH_TABLE_COL_TAGS": "タグ",
+    "LENGTH_SHORT": "短い",
+    "LENGTH_LONG": "長い",
+    "RANKING_TITLE": "ランキング"
 }
