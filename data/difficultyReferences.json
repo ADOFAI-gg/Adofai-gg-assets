@@ -1,0 +1,1032 @@
+[
+  {
+    "difficulty": 1,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 2101,
+      "name": "Dream Culture",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 1,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": null,
+      "name": "4-X",
+      "url": "https://youtu.be/6vBiQJpd-R0?t=210"
+    }
+  },
+  {
+    "difficulty": 2,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 273,
+      "name": "The Last Page",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 2,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": null,
+      "name": "2-X",
+      "url": "https://youtu.be/6vBiQJpd-R0?t=83"
+    }
+  },
+  {
+    "difficulty": 2,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": null,
+      "name": "1-X",
+      "url": "https://youtu.be/6vBiQJpd-R0?t=1"
+    }
+  },
+  {
+    "difficulty": 3,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1937,
+      "name": "君がいるからだった。",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 3,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": null,
+      "name": "3-X",
+      "url": "https://youtu.be/6vBiQJpd-R0?t=148"
+    }
+  },
+  {
+    "difficulty": 3,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 736,
+      "name": "Fate",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 4,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 937,
+      "name": "Sunny Day",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 4,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": null,
+      "name": "5-X",
+      "url": "https://youtu.be/6vBiQJpd-R0?t=332"
+    }
+  },
+  {
+    "difficulty": 4,
+    "position": 2,
+    "easiestLevel": false,
+    "level": {
+      "levelId": null,
+      "name": "9-X",
+      "url": "https://youtu.be/6vBiQJpd-R0?t=703"
+    }
+  },
+  {
+    "difficulty": 4,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 2542,
+      "name": "Daily Life",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 5,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 2250,
+      "name": "限",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 5,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": null,
+      "name": "8-X",
+      "url": "https://youtu.be/6vBiQJpd-R0?t=612"
+    }
+  },
+  {
+    "difficulty": 5,
+    "position": 2,
+    "easiestLevel": false,
+    "level": {
+      "levelId": null,
+      "name": "XC-X",
+      "url": "https://youtu.be/6vBiQJpd-R0?t=1257"
+    }
+  },
+  {
+    "difficulty": 5,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 2257,
+      "name": "Amazing to Me",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 6,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1386,
+      "name": "This Future (we didn't expect) (Short)",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 6,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": null,
+      "name": "11-X",
+      "url": "https://youtu.be/6vBiQJpd-R0?t=895"
+    }
+  },
+  {
+    "difficulty": 6,
+    "position": 2,
+    "easiestLevel": false,
+    "level": {
+      "levelId": null,
+      "name": "12-X",
+      "url": "https://youtu.be/6vBiQJpd-R0?t=1022"
+    }
+  },
+  {
+    "difficulty": 6,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 204,
+      "name": "Find our way",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 7,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 130,
+      "name": "인형의 무도",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 7,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 526,
+      "name": "Geometrical Dominator",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 7,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 1976,
+      "name": "Classy Kitty",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 8,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 2467,
+      "name": "MAKE IT FUNKY NOW",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 8,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": null,
+      "name": "B-X",
+      "url": "https://youtu.be/6vBiQJpd-R0?t=1118"
+    }
+  },
+  {
+    "difficulty": 8,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 849,
+      "name": "Festival of spirits",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 9,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 568,
+      "name": "Party of spirits",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 9,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1822,
+      "name": "The Massacre",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 9,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 247,
+      "name": "Sapphire",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 10,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 52,
+      "name": "Underground Party",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 10,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": null,
+      "name": "XO-X",
+      "url": "https://youtu.be/6vBiQJpd-R0?t=1656"
+    }
+  },
+  {
+    "difficulty": 10,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": null,
+      "name": "#2852.GREAT GREAT",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 11,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 665,
+      "name": "Fairy Tale",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 11,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1946,
+      "name": "Alice in misanthrope",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 11,
+    "position": 2,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1968,
+      "name": "Fall With Me",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 11,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 645,
+      "name": "Sirius A",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 12,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1944,
+      "name": "crystallized",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 12,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1978,
+      "name": "Otona!",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 12,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 1632,
+      "name": "Dream Dash",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 13,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1966,
+      "name": "Twinkle * Winter",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 13,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 2066,
+      "name": "Turkish March",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 13,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 2733,
+      "name": "Overflow",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 14,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 58,
+      "name": "Mad Piano Party II",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 14,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 2846,
+      "name": "Quaoar (Remake)",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 14,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 2996,
+      "name": "ロベリア",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 15,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 401,
+      "name": "super ultra kuma boy",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 15,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 2664,
+      "name": "Dream Leaf (Short)",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 15,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 23,
+      "name": "Take It Away",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 16,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 868,
+      "name": "Comet",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 16,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1133,
+      "name": "Shore in the Rain",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 16,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 2550,
+      "name": "Emerald wave",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 17,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 577,
+      "name": "Rainy Gate",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 17,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1001,
+      "name": "DIGITAL:CANVAS",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 17,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 2573,
+      "name": "Decoherence",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 18,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 297,
+      "name": "This Future (we didn't expect)",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 18,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1790,
+      "name": "crystallized",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 18,
+    "position": 2,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1957,
+      "name": "Happyyyy~★♥♪!!",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 18,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 114,
+      "name": "First Town Of This Journey",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 18.5,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1795,
+      "name": "Mystery Circles Ultra / U.U.F.O.",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 18.5,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 2083,
+      "name": "recollect",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 18.5,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 2276,
+      "name": "Bitch Punch",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 19,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 141,
+      "name": "We Could Get More Machinegun Psystyle! (And More Genre Switches)",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 19,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 2177,
+      "name": "Flamewall",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 19,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 866,
+      "name": "ゆらゆらLovelight",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 19.5,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 608,
+      "name": "Another Xronixle",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 19.5,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1287,
+      "name": "Rocky Buinne (Short)",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 19.5,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 1874,
+      "name": "Labyrinth in Kowloon: Walled World",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 405,
+      "name": "Dance with Silence",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1145,
+      "name": "Gravitation Revert (Changed)",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 1980,
+      "name": "Power Trip",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.1,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1789,
+      "name": "Alone Intelligence",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.1,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1910,
+      "name": "Chronostasis",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.1,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 1214,
+      "name": "ΩΩPARTS (Short)",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.2,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 636,
+      "name": "Newspapers for Magicians",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.2,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 677,
+      "name": "Exit This Earth's Atomosphere (Camellia's \"Planetary//200step\" Remix)",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.2,
+    "position": 2,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1297,
+      "name": "櫻花劍舞 (앵화검무)",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.2,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 2282,
+      "name": "Doppelganger [Extreme]",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.3,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1,
+      "name": "[ns]",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.3,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 841,
+      "name": "Qyoh (Nine Stars) (Short)",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.3,
+    "position": 2,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1849,
+      "name": "FM Synthesis Experiment",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.3,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 1523,
+      "name": "New Era",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.4,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1314,
+      "name": "Newspapers for Magicians",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.4,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 2396,
+      "name": "SLIME INCIDENT ",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.4,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 1416,
+      "name": "スター・オブ・ザ・COME ON!!",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.5,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1237,
+      "name": "Once Again (VIP)",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.5,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1640,
+      "name": "Heart of Android : Even If It's Only By Mechanism",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.5,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 564,
+      "name": "Inferno (Nerfed)",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.6,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 527,
+      "name": "Nacreous Snowmelt",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.6,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1877,
+      "name": "GHOUL",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.6,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 330,
+      "name": "Blackmagik Blazing",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.7,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1941,
+      "name": "Toxic Violet Cubes",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.7,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 2380,
+      "name": "Inferno",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.7,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 1753,
+      "name": "Arche (Remake)",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.8,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1215,
+      "name": "ΩΩPARTS",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.8,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 2264,
+      "name": "PP BREAKER (Nerfed)",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.8,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 3128,
+      "name": "Lúin øf Celtchaя",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.9,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1135,
+      "name": "M1LLI0N PP (Nerfed)",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.9,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 2076,
+      "name": "偽物(Nisemono) (Nerfed)",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.9,
+    "position": 2,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 2273,
+      "name": "Palace of Melancholia",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 20.9,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 3135,
+      "name": "⫻Under Construxion⫻ (Nerfed)",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 21,
+    "position": 0,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 1017,
+      "name": "multi_arm",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 21,
+    "position": 1,
+    "easiestLevel": false,
+    "level": {
+      "levelId": 3121,
+      "name": "Fallen Symphony",
+      "url": null
+    }
+  },
+  {
+    "difficulty": 21,
+    "position": 0,
+    "easiestLevel": true,
+    "level": {
+      "levelId": 2382,
+      "name": "Qyoh (Nine Stars)",
+      "url": null
+    }
+  }
+]
