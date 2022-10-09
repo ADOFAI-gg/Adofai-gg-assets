@@ -151,5 +151,6 @@
     "REFERENCE_INDICATION_TINY": "This is a level shorter than a minute.",
     "REFERENCE_INDICATION_NOT_RATED": "This level's difficulty is being decided.",
     "REFERENCE_INDICATION_UNCLEARABLE": "This level is decided as unclearable.",
-    "REFERENCE_INDICATION_CENSORED": "This level does not meet the level listing standards, and is unlisted."
+    "REFERENCE_INDICATION_CENSORED": "This level does not meet the level listing standards, and is unlisted.",
+    "NAV_REFERENCES": "References"
 }
