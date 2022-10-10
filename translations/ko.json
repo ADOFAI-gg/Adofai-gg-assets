@@ -147,5 +147,7 @@
     "DIFFICULTY_REFERENCE": "난도 기준",
     "REFERENCE_DIFFICULTY": "난도",
     "REFERENCE_STANDARD_LEVEL_SECOND": "기준 레벨 2",
-    "NAV_REFERENCES": "기준 레벨"
+    "NAV_REFERENCES": "기준 레벨",
+    "REFERENCE_INDICATION_RATED": "레벨의 난도입니다. 난도는 추후에 바뀔 수 있습니다.",
+    "REFERENCE_INDICATION_TINY": "1분보다 짧은 레벨입니다."
 }
