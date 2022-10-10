@@ -147,7 +147,10 @@
     "DIFFICULTY_REFERENCE": "난도 기준",
     "REFERENCE_DIFFICULTY": "난도",
     "REFERENCE_STANDARD_LEVEL_SECOND": "기준 레벨 2",
-    "NAV_REFERENCES": "기준 레벨",
-    "REFERENCE_INDICATION_RATED": "레벨의 난도입니다. 난도는 추후에 바뀔 수 있습니다.",
-    "REFERENCE_INDICATION_TINY": "1분보다 짧은 레벨입니다."
+    "NAV_REFERENCES": "기준",
+    "REFERENCE_INDICATION_RATED": "난도 책정이 완료된 레벨입니다. 이의가 있다면 변경될 수 있습니다.",
+    "REFERENCE_INDICATION_TINY": "1분 이하의 레벨입니다.",
+    "REFERENCE_INDICATION_NOT_RATED": "난도를 책정 중인 레벨입니다.",
+    "REFERENCE_INDICATION_CENSORED": "등재되었으나 이후 문제가 발견되어 제외 처리된 레벨입니다.",
+    "REFERENCE_INDICATION_UNCLEARABLE": "클리어 불가능한 난도로 제외 처리된 레벨입니다."
 }
