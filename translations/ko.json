@@ -6,7 +6,7 @@
     "NAV_RANKINGS": "랭킹",
     "LEVEL_DETAIL_LEVEL_BY": "제작자",
     "LEVEL_DETAIL_MUSIC_BY": "작곡가",
-    "LEVEL_DETAIL_DIFFICULTY": "레벨",
+    "LEVEL_DETAIL_DIFFICULTY": "난도",
     "LEVEL_DETAIL_SONG_LENGTH": "곡 길이",
     "LEVEL_DETAIL_BPM": "BPM",
     "LEVEL_DETAIL_TILES": "타일 수",
@@ -137,7 +137,7 @@
     "TIME_UNIT_SECONDS": "{value}초",
     "RANKING_TITLE": "랭킹",
     "RANKING_HIGHEST_PLAY": "최고의 플레이",
-    "REFERENCES": "기준",
+    "REFERENCES": "기준 레벨",
     "DIFFICULTY_INDICATION": "난도 표시",
     "REFERENCE_PP_RATING": "PP 책정",
     "REFERENCE_STANDARD_LEVEL_FIRST": "기준 레벨 1",
@@ -146,5 +146,6 @@
     "REFERENCE_DESCRIPTION": "설명",
     "DIFFICULTY_REFERENCE": "난도 기준",
     "REFERENCE_DIFFICULTY": "난도",
-    "REFERENCE_STANDARD_LEVEL_SECOND": "기준 레벨 2"
+    "REFERENCE_STANDARD_LEVEL_SECOND": "기준 레벨 2",
+    "NAV_REFERENCES": "기준 레벨"
 }
