@@ -93,8 +93,8 @@
     "TAG_13_DESCRIPTION": "このレベルは2つのキーを同時に押す部分を含みます。",
     "TAG_15_NAME": "2+同時打ち",
     "TAG_15_DESCRIPTION": "このレベルは3つ以上のキーを同時に押す部分を含みます。",
-    "TAG_21_NAME": "トレシージョ",
-    "TAG_21_DESCRIPTION": "このレベルはトレシージョを含みます。",
+    "TAG_21_NAME": "トレシヨ",
+    "TAG_21_DESCRIPTION": "このレベルはトレシヨを含みます。",
     "TAG_14_NAME": "疾走",
     "TAG_14_DESCRIPTION": "このレベルは速いBPMで直線を打つ部分を含みます。",
     "LEVEL_OPEN_IN_ADOFAI": "ADOFAIでレベルを開く",
@@ -145,5 +145,7 @@
     "DIFFICULTY_REFERENCE": "難度基準",
     "FOOTER_DESCRIPTION": "ADOFAI.ggはADOFAI非公式フォーラムを基にしており、7th Beat Gamesが製作・承認していません。このウェブサイトはHanmesoftの支援により提供されています。",
     "FOOTER_SECTION_CONTACT": "連絡",
-    "FOOTER_COPYRIGHT": "© 2022 ADOFAI.gg Development Team. このサイトに関するデザイン（他社提供画像、フォントを除く）、アイコン、ソースコード（ライブラリーを除く）に対する全ての権利を保有。"
+    "FOOTER_COPYRIGHT": "© 2022 ADOFAI.gg Development Team. このサイトに関するデザイン（他社提供画像、フォントを除く）、アイコン、ソースコード（ライブラリーを除く）に対する全ての権利を保有。",
+    "TAG_12_NAME": "リズム難",
+    "TAG_12_DESCRIPTION": "このレベルは難解なリズムを含みます。"
 }
