@@ -115,7 +115,7 @@
     "SEARCH_TABLE_COL_WARNINGS": "光過敏性・NSFW",
     "SEARCH_TABLE_COL_LINKS": "リンク",
     "TAG_SW_DESCRIPTION": "このレベルは点滅する画像を含み、光過敏性てんかんを引き起こす可能性があります。",
-    "LENGTH_MEDIUM": "普通",
+    "LENGTH_MEDIUM": "中くらい",
     "TAG_SW_NAME": "光過敏性警告",
     "FOOTER_CONTACT_DISCORD": "Discordサーバーに参加",
     "FOOTER_SECTION_LEGAL": "法的契約及びポリシー",
@@ -125,7 +125,7 @@
     "LENGTH_VIDEO": "約{time}",
     "REFERENCES": "基準レベル",
     "DIFFICULTY_INDICATION": "難度表示",
-    "REFERENCE_DIFFICULTY": "難度",
+    "REFERENCE_DIFFICULTY": "Lv.",
     "REFERENCE_PP_RATING": "PP評価",
     "TIME_UNIT_MINUTE": "{value}分",
     "TIME_UNIT_MINUTES": "{value}分",
@@ -147,5 +147,10 @@
     "FOOTER_SECTION_CONTACT": "連絡",
     "FOOTER_COPYRIGHT": "© 2022 ADOFAI.gg Development Team. このサイトに関するデザイン（他社提供画像、フォントを除く）、アイコン、ソースコード（ライブラリーを除く）に対する全ての権利を保有。",
     "TAG_12_NAME": "リズム難",
-    "TAG_12_DESCRIPTION": "このレベルは難解なリズムを含みます。"
+    "TAG_12_DESCRIPTION": "このレベルは難解なリズムを含みます。",
+    "REFERENCE_INDICATION_NOT_RATED": "このレベルの難度はまだ評価中です。",
+    "REFERENCE_INDICATION_UNCLEARABLE": "このレベルはクリアが不可能と判断されました。",
+    "NAV_REFERENCES": "基準",
+    "REFERENCE_INDICATION_TINY": "このレベルは1分未満です。",
+    "REFERENCE_INDICATION_CENSORED": "このレベルからは問題が発見されたため、リストから除外されています。"
 }
