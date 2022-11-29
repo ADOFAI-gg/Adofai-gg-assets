@@ -99,7 +99,7 @@
     "TAG_14_DESCRIPTION": "このレベルは速いBPMで直線を打つ部分を含みます。",
     "LEVEL_OPEN_IN_ADOFAI": "ADOFAIでレベルを開く",
     "SEARCH_TABLE_COL_ARTIST": "アーティスト",
-    "SEARCH_TABLE_COL_CREATOR": "製作者",
+    "SEARCH_TABLE_COL_CREATOR": "作成者",
     "SEARCH_TABLE_COL_DIFFICULTY": "難度",
     "SEARCH_TABLE_COL_BPM": "BPM",
     "SEARCH_TABLE_COL_TILES": "タイル数",
