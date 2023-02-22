@@ -6,13 +6,13 @@
 <rect x="176" y="40" width="21" height="51" transform="rotate(90 176 40)" fill="#212121"/>
 <path d="M200 47L179 26L200 26L200 47Z" fill="#212121"/>
 <path d="M200 21L179 7.147e-08L200 1.90735e-06L200 21Z" fill="#212121"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M89.2487 50L65 50L81.7432 21L105.992 21L89.2487 50Z" fill="#212121"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0637 40L58.3124 40L24.2487 99L0 99L34.0637 40Z" fill="#212121"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M89.2535 50L65 50L82.3239 20L106.577 20L89.2535 50Z" fill="#212121"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0637 40L58.3124 40L24.2487 99L3.24738e-06 99L34.0637 40Z" fill="#212121"/>
 <rect x="106" width="21" height="106" transform="rotate(90 106 0)" fill="#212121"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M343 63.5227L349.523 57L378 57L378 58.2212L343 93.2212L343 63.5227Z" fill="#B82A2B"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M343 63.4829L350.529 56L378 56L378 58.2138L343 93L343 63.4829Z" fill="#B82A2B"/>
 <rect x="314" y="65" width="21" height="34" fill="#B82A2B"/>
 <rect x="378" y="36" width="21" height="69" transform="rotate(90 378 36)" fill="#B82A2B"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M215 88.5227L282.523 21L305 21L305 28.2212L234.221 99L215 99L215 88.5227Z" fill="#B82A2B"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M215 88.5227L283.523 20L305 20L305 28.2212L234.221 99L215 99L215 88.5227Z" fill="#B82A2B"/>
 <rect x="305" width="21" height="90" transform="rotate(90 305 0)" fill="#B82A2B"/>
 <rect x="553" width="21" height="39" transform="rotate(90 553 0)" fill="#212121"/>
 <rect x="553" y="32" width="21" height="39" transform="rotate(90 553 32)" fill="#212121"/>
