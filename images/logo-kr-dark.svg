@@ -1,0 +1,27 @@
+<svg width="824" height="100" viewBox="0 0 824 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M49.5 77C64.6878 77 77 64.6878 77 49.5C77 34.3122 64.6878 22 49.5 22C34.3122 22 22 34.3122 22 49.5C22 64.6878 34.3122 77 49.5 77ZM49.5 99C76.8381 99 99 76.8381 99 49.5C99 22.1619 76.8381 0 49.5 0C22.1619 0 0 22.1619 0 49.5C0 76.8381 22.1619 99 49.5 99Z" fill="#212121"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M477.5 77C492.688 77 505 64.6878 505 49.5C505 34.3122 492.688 22 477.5 22C462.312 22 450 34.3122 450 49.5C450 64.6878 462.312 77 477.5 77ZM477.5 99C504.838 99 527 76.8381 527 49.5C527 22.1619 504.838 0 477.5 0C450.162 0 428 22.1619 428 49.5C428 76.8381 450.162 99 477.5 99Z" fill="#255DAB"/>
+<rect x="111" width="21" height="99" fill="#212121"/>
+<rect x="539" width="21" height="99" fill="#255DAB"/>
+<rect x="374" width="21" height="99" fill="#B82A2B"/>
+<rect x="682" width="21" height="99" fill="#212121"/>
+<rect x="803" width="21" height="99" fill="#212121"/>
+<rect x="165" y="30" width="21" height="25" fill="#212121"/>
+<rect x="204" y="65" width="21" height="30" fill="#212121"/>
+<rect x="153" width="21" height="42" transform="rotate(90 153 0)" fill="#212121"/>
+<rect x="416" width="21" height="42" transform="rotate(90 416 0)" fill="#B82A2B"/>
+<rect x="264" width="21" height="99" transform="rotate(90 264 0)" fill="#212121"/>
+<rect x="356" width="21" height="74" transform="rotate(90 356 0)" fill="#B82A2B"/>
+<rect x="668" width="21" height="74" transform="rotate(90 668 0)" fill="#212121"/>
+<rect x="789" width="21" height="74" transform="rotate(90 789 0)" fill="#212121"/>
+<rect width="21" height="99" transform="matrix(1 -8.74228e-08 -3.52166e-08 -1 610 100)" fill="#212121"/>
+<rect width="21" height="99" transform="matrix(1 -8.74228e-08 -3.52166e-08 -1 731 100)" fill="#212121"/>
+<rect x="314" y="99" width="21" height="66" transform="rotate(-180 314 99)" fill="#B82A2B"/>
+<rect x="347" y="95" width="21" height="95" transform="rotate(-180 347 95)" fill="#B82A2B"/>
+<rect x="264" y="36" width="21" height="99" transform="rotate(90 264 36)" fill="#212121"/>
+<rect x="356" y="78" width="21" height="74" transform="rotate(90 356 78)" fill="#B82A2B"/>
+<rect x="264" y="78" width="21" height="99" transform="rotate(90 264 78)" fill="#212121"/>
+<rect x="574" y="84" width="15" height="15" fill="#212121"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M639 69.8013L656.435 99.9999H668V78.0308L639.692 28.9999H639V69.8013Z" fill="#212121"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M760 69.8013L777.435 99.9999H789V78.0308L760.692 28.9999H760V69.8013Z" fill="#212121"/>
+</svg>
