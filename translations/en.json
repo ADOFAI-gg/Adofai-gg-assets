@@ -154,6 +154,7 @@
     "REFERENCE_INDICATION_CENSORED": "This level does not meet the level listing standards, and is unlisted.",
     "NAV_REFERENCES": "References",
     "NAV_SETTINGS_LANGUAGES": "Language",
+    "NAV_SETTINGS_LANGUAGES_BUTTON": "Language",
     "NAV_SETTINGS":"Settings",
     "NAV_PAGES": "Pages"
 }
