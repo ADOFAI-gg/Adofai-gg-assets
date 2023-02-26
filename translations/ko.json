@@ -153,5 +153,9 @@
     "REFERENCE_INDICATION_NOT_RATED": "난도를 책정 중인 레벨입니다.",
     "REFERENCE_INDICATION_CENSORED": "등재되었으나 이후 문제가 발견되어 제외 처리된 레벨입니다.",
     "REFERENCE_INDICATION_UNCLEARABLE": "클리어 불가능한 난도로 제외 처리된 레벨입니다.",
-    "NAV_SETTINGS": "설정"
+    "NAV_SETTINGS": "설정",
+    "NAV_SETTINGS_LANGUAGES": "언어",
+    "NAV_SETTINGS_LANGUAGES_BUTTON": "언어",
+    "NAV_PAGES": "페이지",
+    "SEARCH_VIEW_LABEL": "보기"
 }
