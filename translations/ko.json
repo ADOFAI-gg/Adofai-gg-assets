@@ -76,6 +76,7 @@
     "SORT_ASC": "오름차순",
     "SORT_DESC": "내림차순",
     "SEARCH_TAB_TAGS": "태그",
+    "SEARCH_VIEW_LABEL": "보기",
     "SEARCH_VIEW_LIST": "목록",
     "SEARCH_TAB_SORT": "정렬",
     "SEARCH_VIEW_TABLE": "표",
@@ -152,5 +153,8 @@
     "REFERENCE_INDICATION_TINY": "1분 이하의 레벨입니다.",
     "REFERENCE_INDICATION_NOT_RATED": "난도를 책정 중인 레벨입니다.",
     "REFERENCE_INDICATION_CENSORED": "등재되었으나 이후 문제가 발견되어 제외 처리된 레벨입니다.",
-    "REFERENCE_INDICATION_UNCLEARABLE": "클리어 불가능한 난도로 제외 처리된 레벨입니다."
+    "REFERENCE_INDICATION_UNCLEARABLE": "클리어 불가능한 난도로 제외 처리된 레벨입니다.",
+    "NAV_SETTINGS_LANGUAGES": "언어 설정(Language)",
+    "NAV_SETTINGS":"설정",
+    "NAV_PAGES": "페이지"
 }
