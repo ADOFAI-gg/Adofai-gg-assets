@@ -152,5 +152,10 @@
     "REFERENCE_INDICATION_UNCLEARABLE": "このレベルはクリアが不可能と判断されました。",
     "NAV_REFERENCES": "基準",
     "REFERENCE_INDICATION_TINY": "このレベルは1分未満です。",
-    "REFERENCE_INDICATION_CENSORED": "このレベルからは問題が発見されたため、リストから除外されています。"
+    "REFERENCE_INDICATION_CENSORED": "このレベルからは問題が発見されたため、リストから除外されています。",
+    "NAV_SETTINGS_LANGUAGES": "言語",
+    "NAV_SETTINGS_LANGUAGES_BUTTON": "言語",
+    "NAV_PAGES": "ページ",
+    "NAV_SETTINGS": "設定",
+    "SEARCH_VIEW_LABEL": "表示"
 }
