@@ -155,7 +155,7 @@
     "REFERENCE_INDICATION_UNCLEARABLE": "클리어 불가능한 난도로 제외 처리된 레벨입니다.",
     "NAV_SETTINGS": "설정",
     "NAV_SETTINGS_LANGUAGES": "언어",
-    "NAV_SETTINGS_LANGUAGES_BUTTON": "언어",
+    "NAV_SETTINGS_LANGUAGES_BUTTON": "언어(Language)",
     "NAV_PAGES": "페이지",
     "SEARCH_VIEW_LABEL": "보기"
 }
