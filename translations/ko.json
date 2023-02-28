@@ -157,5 +157,8 @@
     "NAV_SETTINGS_LANGUAGES": "언어",
     "NAV_SETTINGS_LANGUAGES_BUTTON": "언어(Language)",
     "NAV_PAGES": "페이지",
-    "SEARCH_VIEW_LABEL": "보기"
+    "SEARCH_VIEW_LABEL": "보기",
+    "DATA_SYNCHRONIZATION_SUCCEEDED": "데이터 동기화 성공.",
+    "DATA_SYNCHRONIZATION_FAILED": "데이터 동기화 실패.",
+    "DATA_SYNCHRONIZATION_LAST": "마지막 동기화 - {time}"
 }
