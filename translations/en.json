@@ -157,5 +157,8 @@
     "NAV_SETTINGS_LANGUAGES_BUTTON": "Language",
     "NAV_SETTINGS":"Settings",
     "NAV_PAGES": "Pages",
-    "SEARCH_VIEW_LABEL": "View"
+    "SEARCH_VIEW_LABEL": "View",
+    "DATA_SYNCHRONIZATION_SUCCEEDED": "Data synchronization succeeded.",
+    "DATA_SYNCHRONIZATION_FAILED": "Data synchronization failed.",
+    "DATA_SYNCHRONIZATION_LAST": "Last synced on {time}"
 }
