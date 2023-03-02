@@ -157,5 +157,11 @@
     "NAV_SETTINGS_LANGUAGES_BUTTON": "言語",
     "NAV_PAGES": "ページ",
     "NAV_SETTINGS": "設定",
-    "SEARCH_VIEW_LABEL": "表示"
+    "SEARCH_VIEW_LABEL": "表示",
+    "DATA_SYNCHRONIZATION_SUCCEEDED": "データ同期化に成功。",
+    "DATA_SYNCHRONIZATION_FAILED": "データ同期化に失敗。",
+    "DATA_SYNCHRONIZATION_LAST": "{time}に最後に同期化",
+    "SHOW_ALL": "全て見る",
+    "LEVEL_AUTHORS_CREATOR": "作成者",
+    "LEVEL_AUTHORS_ARTIST": "アーティスト"
 }
