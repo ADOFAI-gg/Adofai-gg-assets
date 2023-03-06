@@ -163,5 +163,8 @@
     "DATA_SYNCHRONIZATION_LAST": "{time}에 마지막으로 동기화됨",
     "SHOW_ALL": "전체 보기",
     "LEVEL_AUTHORS_ARTIST": "아티스트",
-    "LEVEL_AUTHORS_CREATOR": "제작자"
+    "LEVEL_AUTHORS_CREATOR": "제작자",
+    "NAV_SETTINGS_ACCESSIBILITY": "접근성",
+    "ACCESSIBILITY_SOLID_BACKGROUND": "단색 배경",
+    "ACCESSIBILITY_REDUCE_ANIMATION": "에니메이션 최소화"
 }
