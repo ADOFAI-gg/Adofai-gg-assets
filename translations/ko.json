@@ -161,7 +161,7 @@
     "DATA_SYNCHRONIZATION_SUCCEEDED": "데이터 동기화 성공.",
     "DATA_SYNCHRONIZATION_FAILED": "데이터 동기화 실패.",
     "DATA_SYNCHRONIZATION_LAST": "{time}에 마지막으로 동기화됨",
-    "SHOW_ALL": "전체 보기",
+    "SHOW_ALL": "모두 보기",
     "LEVEL_AUTHORS_ARTIST": "아티스트",
     "LEVEL_AUTHORS_CREATOR": "제작자",
     "NAV_SETTINGS_ACCESSIBILITY": "접근성",
