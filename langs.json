@@ -6,12 +6,12 @@
     },
     {
         "code": "ko",
-        "name": "Korean",
+        "name": "한국어",
         "aliases": ["ko-KR"]
     },
     {
         "code": "ja",
-        "name": "Japanese",
+        "name": "日本語",
         "aliases": []
     }
 ]
