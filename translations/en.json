@@ -166,5 +166,10 @@
     "LEVEL_AUTHORS_ARTIST": "Artist",
     "LEVEL_AUTHORS_CREATOR": "Creator",
     "ACCESSIBILITY_SOLID_BACKGROUND": "Solid background",
-    "ACCESSIBILITY_REDUCE_ANIMATION": "Reduce animations"
+    "ACCESSIBILITY_REDUCE_ANIMATION": "Reduce animations",
+
+    "NAV_LINKS": "Links",
+    "NAV_LINK_SUBMIT_PLAY": "Submit Your Play",
+    "NAV_LINK_SUBMIT_LEVEL": "Submit Your Level",
+    "NAV_LINK_RE_LEVEL": "Request Re-Leveling"
 }
