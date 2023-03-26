@@ -171,5 +171,7 @@
     "NAV_LINKS": "Links",
     "NAV_LINK_SUBMIT_PLAY": "Submit Your Play",
     "NAV_LINK_SUBMIT_LEVEL": "Submit Your Level",
-    "NAV_LINK_RE_LEVEL": "Request Re-Leveling"
+    "NAV_LINK_RE_LEVEL": "Request Re-Leveling",
+
+    "LEVEL_LEADERBOARD": "Leaderboard"
 }
