@@ -173,5 +173,6 @@
     "NAV_LINK_SUBMIT_LEVEL": "Submit Your Level",
     "NAV_LINK_RE_LEVEL": "Request Re-Leveling",
 
-    "LEVEL_LEADERBOARD": "Leaderboard"
+    "LEVEL_LEADERBOARD": "Leaderboard",
+    "LEADERBOARD_CLEAR_VIDEO": "Clear Video"
 }
