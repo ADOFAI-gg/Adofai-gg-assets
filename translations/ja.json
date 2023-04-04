@@ -163,5 +163,12 @@
     "DATA_SYNCHRONIZATION_LAST": "{time}に最後に同期化",
     "SHOW_ALL": "全て見る",
     "LEVEL_AUTHORS_CREATOR": "作成者",
-    "LEVEL_AUTHORS_ARTIST": "アーティスト"
+    "LEVEL_AUTHORS_ARTIST": "アーティスト",
+    "NAV_SETTINGS_ACCESSIBILITY": "アクセシビリティ",
+    "ACCESSIBILITY_SOLID_BACKGROUND": "背景を単色にする",
+    "ACCESSIBILITY_REDUCE_ANIMATION": "動きを最小化する",
+    "NAV_LINKS": "外部リンク",
+    "NAV_LINK_SUBMIT_LEVEL": "レベルを投稿",
+    "NAV_LINK_SUBMIT_PLAY": "プレイを投稿",
+    "NAV_LINK_RE_LEVEL": "再評価を要請"
 }
