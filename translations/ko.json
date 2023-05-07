@@ -167,5 +167,10 @@
     "NAV_SETTINGS_ACCESSIBILITY": "접근성",
     "ACCESSIBILITY_SOLID_BACKGROUND": "단색 배경",
     "ACCESSIBILITY_REDUCE_ANIMATION": "애니메이션 최소화",
-    "NAV_LINKS": "외부 링크"
+    "NAV_LINKS": "외부 링크",
+    "NAV_LINK_SUBMIT_LEVEL": "자작 레벨 투고",
+    "NAV_LINK_SUBMIT_PLAY": "플레이 기록 투고",
+    "NAV_LINK_RE_LEVEL": "재책정 요청",
+    "LEVEL_LEADERBOARD": "리더보드",
+    "LEADERBOARD_CLEAR_VIDEO": "클리어 영상"
 }
