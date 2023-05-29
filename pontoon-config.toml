@@ -1,9 +1,0 @@
-[[paths]]
-  reference = "translations/en/localization.json"
-  i10n = "translation/{locale}/localization.json"
-  locales = [
-    "ko",
-    "en",
-    "ja",
-    "zh_Hans"
-  ]
