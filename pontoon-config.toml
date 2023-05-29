@@ -1,6 +1,6 @@
 [[paths]]
   reference = "translations/en.json"
-  i10n = "translation/{locale}.json"
+  i10n = "translation/{locale}/localization.json"
   locales = [
     "ko",
     "en",
