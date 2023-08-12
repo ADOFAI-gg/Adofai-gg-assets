@@ -13,5 +13,10 @@
         "code": "ja",
         "name": "日本語",
         "aliases": []
+    },
+    {
+        "code": "zh-CN",
+        "name": "Chinese",
+        "aliases": []
     }
 ]
