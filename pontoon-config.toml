@@ -4,5 +4,6 @@
     locales = [
         "en",
         "ko",
-        "ja"
+        "ja",
+        "zh-CN"
     ]
