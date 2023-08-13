@@ -21,6 +21,7 @@
     },
     {
         "code": "vi",
-        "name": "Vietnamese"
+        "name": "Vietnamese",
+        "aliases": []
     }
 ]
