@@ -1,4 +1,4 @@
 [[paths]]
 reference = "translations/en.json"
 l10n = "translations/{locale}.json"
-locales = ["en", "ko", "ja", "zh-CN", "vi"]
+locales = ["en", "ko", "ja", "vi", "zh-CN"]
