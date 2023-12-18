@@ -110,9 +110,6 @@
   "FOOTER_CONTACT_EMAIL": "发送咨询邮件",
   "FOOTER_CONTACT_DISCORD": "加入Discord服务器",
   "FOOTER_SECTION_LEGAL": "法律协议和政策",
-  "FOOTER_LEGAL_NOTICE": "法律声明",
-  "FOOTER_LEGAL_TERMS": "服务条款",
-  "FOOTER_LEGAL_PRIVACY_POLICY": "隐私政策",
   "FOOTER_COPYRIGHT": "本网站上的设计（不包括第三方图像和字体）、图标和源代码（不包括库）保留所有权利。",
   "SEARCH_TABLE_COL_ID": "ID",
   "SEARCH_TABLE_COL_DIFFICULTY": "等级",
@@ -172,5 +169,9 @@
   "NAV_LINK_SUBMIT_LEVEL": "上传你的关卡",
   "NAV_LINK_RE_LEVEL": "请求重新评级",
   "LEVEL_LEADERBOARD": "排行榜",
-  "LEADERBOARD_CLEAR_VIDEO": "击破视频"
+  "LEADERBOARD_CLEAR_VIDEO": "击破视频",
+
+  "FOOTER_LEGAL_NOTICE": "法律声明",
+  "TERMS_OF_SERVICE": "服务条款",
+  "PRIVACY_POLICY": "隐私政策"
 }

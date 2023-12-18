@@ -110,9 +110,6 @@
   "FOOTER_CONTACT_EMAIL": "문의 메일 전송",
   "FOOTER_CONTACT_DISCORD": "Discord 서버 가입",
   "FOOTER_SECTION_LEGAL": "법적 계약 및 정책",
-  "FOOTER_LEGAL_NOTICE": "법적 고지",
-  "FOOTER_LEGAL_TERMS": "서비스 이용 약관",
-  "FOOTER_LEGAL_PRIVACY_POLICY": "개인정보 처리방침",
   "FOOTER_COPYRIGHT": "이 사이트에 대한 디자인(타사 제공 이미지, 폰트 제외)과 아이콘, 소스 코드(라이브러리 제외)에 대한 모든 권리 보유.",
   "SEARCH_TABLE_COL_ID": "ID",
   "SEARCH_TABLE_COL_DIFFICULTY": "난도",
@@ -172,5 +169,8 @@
   "NAV_LINK_SUBMIT_LEVEL": "자작 레벨 투고",
   "NAV_LINK_RE_LEVEL": "재책정 요청",
   "LEVEL_LEADERBOARD": "리더보드",
-  "LEADERBOARD_CLEAR_VIDEO": "클리어 영상"
+  "LEADERBOARD_CLEAR_VIDEO": "클리어 영상",
+  "LEGAL_NOTICE": "법적 고지",
+  "TERMS_OF_SERVICE": "서비스 이용 약관",
+  "PRIVACY_POLICY": "개인정보 처리방침"
 }
