@@ -75,9 +75,9 @@ group-rhythm = Pattern Tags
 group-music = Music Tags
 
 # Length
-length-short-name = Short
-length-medium-name = Medium
-length-long-name = Long
+length-short = Short
+length-medium = Medium
+length-long = Long
 
 length-medium-description = This level is 1~4 minutes.
 
