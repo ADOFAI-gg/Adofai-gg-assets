@@ -53,6 +53,7 @@ group-music = 음악 태그
 length-short-name = 1분 미만
 length-medium-name = 보통
 length-long-name = 긺
+music-medium-name = { length-medium-name }
 music-medium-description = 길이가 1분에서 4분인 레벨입니다.
 length-from-video =
     { $timeUnit ->
