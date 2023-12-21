@@ -75,11 +75,13 @@ group-rhythm = Pattern Tags
 group-music = Music Tags
 
 # Length
-length-short = Short
-length-medium = Medium
-length-long = Long
+length-short-name = Short
+length-medium-name = Medium
+length-long-name = Long
 
-length-medium-description = This level is 1~4 minutes.
+music-medium-name = {length-medium-name}
+
+music-medium-description = This level is 1~4 minutes.
 
 length-from-video = About {$timeUnit ->
     *[seconds] -> {$time ->

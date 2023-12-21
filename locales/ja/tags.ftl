@@ -74,8 +74,8 @@ tag-group-chart = 譜面&VFXタグ
 tag-group-rhythm = パターンタグ
 tag-group-music = 音楽タグ
 
-length-short = 短い
-length-medium = 中くらい
-length-long = 長い
+length-short-name = 短い
+length-medium-name = 中くらい
+length-long-name = 長い
 
 length-medium-description = このレベルは1~4分です。
