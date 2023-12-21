@@ -11,7 +11,7 @@ group-links = Links
 # Settings
 setting-language-international = Language
 setting-language = Language
-setting-accesibility = Accessibility
+setting-accessibility = Accessibility
 
 # External Links
 external-submit-play = Submit Your Play
