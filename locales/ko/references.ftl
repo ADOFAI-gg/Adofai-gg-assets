@@ -10,7 +10,7 @@ reference-standard-level-first = 기준 레벨 1
 reference-standard-level-second = 기준 레벨 1
 reference-standard-level-third = 기준 레벨 1
 reference-easiest-level = 최저 레벨 (기준 레벨 4)
-reference-destiption = 설명
+reference-description = 설명
 # Indication Tab
 indication-rated = 난도 책정이 완료된 레벨입니다. 이의가 있다면 변경될 수 있습니다.
 indication-tiny = 1분 이하의 레벨입니다.
