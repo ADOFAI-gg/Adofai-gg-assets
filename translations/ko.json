@@ -171,6 +171,7 @@
   "SIGN_IN": "로그인",
   "SIGN_UP": "가입",
   "NEW_TO_ADOFAIGG": "ADOFAI.gg에 처음 오시나요?",
+  "NEW_TO_ADOFAIGG_SIGN_UP": "가입해 보세요",
   "SIGNIN_IDENTIFIER_PLACEHOLDER": "이메일 주소 또는 닉네임",
   "SIGNIN_PASSWORD_PLACEHOLDER": "비밀번호",
   "SIGNIN_STAY_LABEL": "로그인 유지하기",
