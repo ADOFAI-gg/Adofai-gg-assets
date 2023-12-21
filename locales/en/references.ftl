@@ -13,7 +13,7 @@ reference-standard-level-first = Standard Level 1
 reference-standard-level-second = Standard Level 1
 reference-standard-level-third = Standard Level 1
 reference-easiest-level = Easiest Level (Reference 4 Arrange)
-reference-destiption = Description
+reference-description = Description
 
 # Indication Tab
 indication-rated = This is the difficulty of the level. The difficulty may change in the future.
