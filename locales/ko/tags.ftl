@@ -50,10 +50,10 @@ group-chart = 채보&이펙트 태그
 group-rhythm = 패턴 태그
 group-music = 음악 태그
 # Length
-length-short = 짧음
-length-medium = 보통
-length-long = 긺
-length-medium-description = 길이가 1분에서 4분인 레벨입니다.
+length-short-name = 1분 미만
+length-medium-name = 보통
+length-long-name = 긺
+music-medium-description = 길이가 1분에서 4분인 레벨입니다.
 length-from-video =
     { $timeUnit ->
         [minutes] 약 { $time }분
