@@ -1,0 +1,11 @@
+id = ID
+difficulty = Lv.
+level-name = Level Name
+music-name = Music Name
+artist = Artist
+creator = Creator
+bpm = BPM
+tiles = Tiles
+tags = Tags
+warnings = EW/NSFW
+links = Links
