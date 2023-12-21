@@ -1,7 +1,7 @@
 title = Sign In
 
 new-to-adofai-gg = New to ADOFAI.gg?
-sign-up-button = Sign Up
+sign-up-link = Sign Up
 
 form-id-placeholder = Email Address or Username
 form-password-placeholder = Password
