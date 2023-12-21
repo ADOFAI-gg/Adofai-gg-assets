@@ -1,0 +1,20 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2877_11000)">
+<circle cx="32" cy="32" r="30.5" stroke="white" stroke-width="3"/>
+<circle opacity="0.6" cx="32" cy="32" r="14" fill="white"/>
+<rect x="30" y="8" width="4" height="7" rx="2" fill="white"/>
+<rect x="56" y="30" width="4" height="7" rx="2" transform="rotate(90 56 30)" fill="white"/>
+<rect x="47.5564" y="13.6152" width="4" height="7" rx="2" transform="rotate(45 47.5564 13.6152)" fill="white"/>
+<rect x="50.3848" y="47.5564" width="4" height="7" rx="2" transform="rotate(135 50.3848 47.5564)" fill="white"/>
+<rect x="30" y="49" width="4" height="7" rx="2" fill="white"/>
+<rect x="15" y="30" width="4" height="7" rx="2" transform="rotate(90 15 30)" fill="white"/>
+<rect x="18.5649" y="42.6066" width="4" height="7" rx="2" transform="rotate(45 18.5649 42.6066)" fill="white"/>
+<rect x="21.3933" y="18.5649" width="4" height="7" rx="2" transform="rotate(135 21.3933 18.5649)" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22.1027 22.0983C22.102 22.099 22.1012 22.0998 22.1005 22.1005C22.0998 22.1012 22.099 22.102 22.0983 22.1027C16.6332 27.5702 16.6339 36.4329 22.1005 41.8995C22.3383 42.1372 22.5824 42.3647 22.8325 42.5817L42.5817 22.8325C42.3647 22.5824 42.1372 22.3383 41.8995 22.1005C36.4329 16.6339 27.5702 16.6332 22.1027 22.0983Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_2877_11000">
+<rect width="64" height="64" fill="white"/>
+</clipPath>
+</defs>
+</svg>
