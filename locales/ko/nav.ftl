@@ -7,7 +7,7 @@ group-settings = 설정
 group-pages = 페이지
 group-links = 외부 링크
 # Settings
-setting-language-international = 언어
+setting-language-international = 언어 (Language)
 setting-language = 언어
 setting-accessibility = 접근성
 # External Links

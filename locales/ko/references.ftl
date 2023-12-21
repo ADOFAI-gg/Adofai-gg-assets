@@ -4,7 +4,7 @@ title = 기준
 tab-reference = { -difficulty } 기준
 tab-indication = { -difficulty } 표시
 # Reference Tab
-reference-difficulty = { -difficulty } 난도
+reference-difficulty = { -difficulty }
 reference-pp-rating = PP 레이팅
 reference-standard-level-first = 기준 레벨 1
 reference-standard-level-second = 기준 레벨 1
