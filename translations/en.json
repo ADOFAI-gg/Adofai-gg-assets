@@ -182,10 +182,10 @@
     "SIGNIN_MORE_OPTIONS": "Or sign in with",
 
     "SIGNUP_TERMS": "Terms",
-    "SIGNUP_TERMS_TOS": "I agree to the Term of Serivce",
-    "SIGNUP_TERMS_TOS_FULL": "See full Terms of Service",
-    "SIGNUP_TERMS_PRIVACY": "I agree to the Privacy Policy",
-    "SIGNUP_TERMS_PRIVACY_FULL": "See full Privacy Policy",
+    "SIGNUP_AGREE_TERMS": "I agree to the Term of Serivce",
+    "SIGNUP_AGREE_PRIVACY": "I agree to the Privacy Policy",
+    "SIGNUP_READ_TERMS": "See full Terms of Service",
+    "SIGNUP_READ_PRIVACY": "See full Privacy Policy",
 
     "SIGNUP_WITH_EMAIL": "Sign Up With Email",
     "SIGNUP_MORE_OPTIONS": "Or sign up with",
@@ -194,6 +194,8 @@
     "SIGNUP_FORM_USERNAME": "Username",
     "SIGNUP_FORM_PASSWORD": "Password",
     "SIGNUP_FORM_PASSWORD_CONFIRM": "Confirm Password",
+
+    "SIGNUP_ERROR_AGREE_CONDITIONS": "You must agree to all conditions",
 
     "LEGAL_NOTICE": "Legal Notice",
     "TERMS_OF_SERVICE": "Terms of Service",
