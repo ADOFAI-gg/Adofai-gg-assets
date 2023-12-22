@@ -6,4 +6,4 @@ form-password-confirm = 비밀번호 재확인
 form-email-placeholder = example@adofai.gg
 form-username-placeholder = 닉네임 입력
 form-password-placeholder = 비밀번호 입력
-form-password-confirm-password = 비밀번호 재확인
+form-password-confirm-placeholder = 비밀번호 재확인
