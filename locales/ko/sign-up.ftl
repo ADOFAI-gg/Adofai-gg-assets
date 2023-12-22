@@ -1,3 +1,4 @@
+title = 가입
 # Section - Agreement
 section-terms = 약관
 terms-agreement = 서비스 이용 약관에 동의합니다
