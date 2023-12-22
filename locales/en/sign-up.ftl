@@ -26,3 +26,5 @@ form-username-placeholder = Your username
 form-password-placeholder = Your password
 form-password-confirm-placeholder = Confirm your password
 
+# Connections
+sign-up-with = Sign Up with { $provider }
