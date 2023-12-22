@@ -1,3 +1,5 @@
+title = Sign Up
+
 # Section - Agreement
 section-terms = Terms
 
