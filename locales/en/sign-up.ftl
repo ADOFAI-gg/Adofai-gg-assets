@@ -13,5 +13,4 @@ strategy-email = Sign Up with Email
 
 more-options = Or sign up with
 
-# Errors
-error-agreement-required = You must agree to all conditions
+conditions-disclaimer = By signing up, you agree to our { LINK("Terms of Service", "/docs/terms") } and { LINK("Privacy Policy", "/docs/privacy") }.
