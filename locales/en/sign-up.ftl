@@ -28,3 +28,7 @@ form-password-confirm-placeholder = Confirm your password
 
 # Connections
 sign-up-with = Sign Up with { $provider }
+
+# Sign in link
+sign-in-question = Already have an account?
+sign-in-link = Sign In
