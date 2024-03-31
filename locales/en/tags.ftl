@@ -84,16 +84,16 @@ music-medium-name = {length-medium-name}
 music-medium-description = This level is 1~4 minutes.
 
 length-from-video = About {$timeUnit ->
-    *[seconds] -> {$time ->
-        [one] -> A Second
-        *[other] -> {$time} Seconds
+    *[seconds] {$time ->
+        [one] A Second
+        *[other] {$time} Seconds
     }
-    [minutes] -> {$time ->
-        [one] -> A Minute
-        *[other] -> {$time} Minutes
+    [minutes] {$time ->
+        [one] A Minute
+        *[other] {$time} Minutes
     }
-    [hours] -> {$time ->
-        [one] -> An Hour
-        *[other] -> {$time} Hours
+    [hours] {$time ->
+        [one] An Hour
+        *[other] {$time} Hours
     }
 }
