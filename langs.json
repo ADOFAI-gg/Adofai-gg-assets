@@ -8,20 +8,5 @@
         "code": "ko",
         "name": "한국어",
         "aliases": ["ko-KR"]
-    },
-    {
-        "code": "ja",
-        "name": "日本語",
-        "aliases": []
-    },
-    {
-        "code": "zh-CN",
-        "name": "简体中文",
-        "aliases": []
-    },
-    {
-        "code": "vi",
-        "name": "Vietnamese",
-        "aliases": []
     }
 ]
