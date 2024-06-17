@@ -26,19 +26,19 @@ meta-field-creator-placeholder = Level Creator
 
 -difficulty = Lv.
 
-meta-field-difficulty-label = { -difficulty }
+meta-field-difficulty = { -difficulty }
 meta-field-difficulty-placeholder-min = Min { -difficulty }
 meta-field-difficulty-placeholder-max = Max { -difficulty }
 
 -tiles = Tiles
 
-meta-field-tiles-label = { -tiles }
+meta-field-tiles = { -tiles }
 meta-field-tiles-placeholder-min = Min { -tiles }
 meta-field-tiles-placeholder-max = Max { -tiles }
 
 -bpm = BPM
 
-meta-field-bpm-label = { -bpm }
+meta-field-bpm = { -bpm }
 meta-field-bpm-placeholder-min = Min { -bpm }
 meta-field-bpm-placeholder-max = Max { -bpm }
 
